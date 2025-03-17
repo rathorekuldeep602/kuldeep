@@ -84,8 +84,8 @@
     <section id="contact">
         <h2>Contact</h2>
         <p>Email: your-rathorekuldeep602@gmail.com</p>
-        <p>GitHub: <a href="https://github.com/your-profile" target="https://github.com/rathorekuldeep602">GitHub Profile</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="www.linkedin.com/in/rathorekuldeep602">LinkedIn Profile</a></p>
+        <p>GitHub: <a href="https://github.com/rathorekuldeep602" target="https://github.com/rathorekuldeep602">GitHub Profile</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/rathorekuldeep602" target="www.linkedin.com/in/rathorekuldeep602">LinkedIn Profile</a></p>
     </section>
     <footer>
         <p>&copy; 2025 Kuldeep. All Rights Reserved.</p>
