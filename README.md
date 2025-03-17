@@ -14,8 +14,7 @@
         }
         header {
             background-color: #333;
-            <p style="color: red;">This text is red!</p>
-            color: #fff;
+            color: red;
             padding: 20px;
             text-align: center;
         }
